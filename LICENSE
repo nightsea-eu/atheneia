@@ -185,8 +185,8 @@
       file or class name and description of purpose be included on the
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
+   
+   Copyright 2025 Night Sea (NS)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,20 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
+   
+   ------------------------------------------------------------
+   NOTICE
+
+   This repository is part of the **Atheneia Platform**, a research and development
+   ecosystem by **Night Sea (NS)** delivering modular, open tools for insight,
+   reasoning, and scientific exploration at the AI–Quantum–Cognition nexus.
+
+   Contributions or derivative works must retain this NOTICE section and clearly
+   indicate any changes made to the original code.
+
+   Atheneia Platform projects are developed for open science, educational,
+   and research purposes. While commercial use is allowed under the License,
+   attribution to **Night Sea (NS)** and the **Atheneia Platform** is required
+   in all derived works and redistributions.
+   ------------------------------------------------------------
