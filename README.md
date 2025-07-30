@@ -2,19 +2,19 @@
 
 > **Learning by Delivering: Practical Innovation at the AI–Quantum–Cognition Nexus**
 
-Atheneia is an open research and development platform by **Night Sea (NS)**, dedicated to building **modular, web-based tools** that help scientists, researchers, and decision-makers understand complexity, explore quantum computing, and apply AI responsibly for environmental and societal benefit.
+Atheneia is an open research and development platform by **Night Sea (NS)**, dedicated to building **modular, web-based research tools** that help scientists, researchers, and decision-makers understand complexity, explore quantum computing, and apply AI responsibly for environmental and societal benefit.
 
 ---
 
 ## 🌌 Mission
 
 We believe that **intelligence should serve clarity and purpose**, not power.  
-Atheneia builds **accessible, open tools** that bring quantum computing, cognitive systems, and AI-driven reasoning into the hands of researchers and educators worldwide.
+Atheneia builds **accessible, open research tools** that bring quantum computing, cognitive systems, and AI-driven reasoning into the hands of researchers and educators worldwide.
 
 Our goals:
 
 - **Accelerate learning** in AI, quantum computing, and cognition  
-- **Deliver real-world, solo-feasible MVPs** with immediate impact  
+- **Deliver real-world, modular research tools** with immediate impact  
 - **Support science, sustainability, and wellbeing** through open technology
 
 ---
@@ -44,7 +44,7 @@ Our goals:
    - Cognitive Reef Mirror
    - AI-Powered Climate Decision Support Toolkit
 
-*(For the full project portfolio, see the [Atheneia Projects](./PROJECTS.md) document.)*
+*(For the full project portfolio, see the [PROJECTS.md](./PROJECTS.md) document.)*
 
 ---
 
@@ -61,4 +61,11 @@ Our goals:
 ## 🛠️ Getting Started
 
 ```bash
-# Clone r
+# Clone repository
+git clone https://github.com/nightsea-eu/<repo-name>.git
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
