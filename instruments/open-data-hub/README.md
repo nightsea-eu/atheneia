@@ -3,7 +3,6 @@
 **A commons-oriented platform for quantum datasets and educational reuse**  
 This project provides an open-source data portal and interface to access, annotate, and reuse quantum computing datasets for research, reproducibility, and teaching purposes.
 
-![Atheneia Logo](https://atheneia.eu/assets/logo-dark.svg)
 
 ---
 
