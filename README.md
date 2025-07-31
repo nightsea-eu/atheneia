@@ -33,13 +33,13 @@ Our goals:
 1. **Line 1 – Education & Research Tools**
 
    * Q-Kit: Modular Quantum Teaching SDK
-   * [Quantum Circuit Explorer (QCE)](../foundational/qce/README.md)
-   * [Interactive Quantum State Visualiser](../foundational/state-visualiser/README.md)
-   * [Quantum Gate Sequence Predictor (Q-GSP)](../foundational/q-gsp/README.md)
+   * [Quantum Circuit Explorer (QCE)](foundational/qce)
+   * [Interactive Quantum State Visualiser](foundational/state-visualiser)
+   * [Quantum Gate Sequence Predictor (Q-GSP)](foundational/q-gsp)
    * Q-Insight Engine for Sustainability Intelligence
 
 2. **Line 2 – Complexity Insight Instruments**
-   * [Open Quantum Data Hub](../instruments/open-data-hub/README.md)
+   * [Open Quantum Data Hub](instruments/open-data-hub)
    * Quantum Eco-Behavioural Analytics Platform
    * Quantum Explainability Engine
    * Quantum Knowledge Navigator for Academic Search
