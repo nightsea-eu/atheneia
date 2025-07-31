@@ -54,7 +54,6 @@ This repository will host the first modular delivery of the tool upon funding an
 ## 🌐 License
 
 [Licensed under **Apache 2.0**](LICENSE)
-All code and models are open, local-first, and privacy-preserving.
 
 ---
 
