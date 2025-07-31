@@ -3,14 +3,14 @@
 **A commons-oriented platform for quantum datasets and educational reuse**  
 This project provides an open-source data portal and interface to access, annotate, and reuse quantum computing datasets for research, reproducibility, and teaching purposes.
 
-
 ---
 
 ## 🔍 About the Project
 
 **Open Quantum Data Hub** is designed to foster openness and collaboration in quantum research by enabling:
-- Dataset sharing and discovery
-- Lightweight metadata curation
+
+- Dataset sharing and discovery  
+- Lightweight metadata curation  
 - Educational annotations and teaching-ready exports
 
 It enables reproducibility, cross-institutional reuse, and a more accessible entry point for learners and educators.
@@ -27,6 +27,17 @@ It enables reproducibility, cross-institutional reuse, and a more accessible ent
 
 ---
 
+## 🧪 Initial Delivery Scope
+
+This repository will host the first modular delivery of the tool upon funding and development. The planned scope includes:
+
+- Dataset loader and listing UI  
+- Metadata editing and annotation features  
+- Teaching export options (JSON, CSV, QASM-lite)  
+- API endpoints for integration and search
+
+---
+
 ## 📦 Tech Stack
 
 - **Frontend:** React, TypeScript, Vite  
@@ -34,28 +45,6 @@ It enables reproducibility, cross-institutional reuse, and a more accessible ent
 - **Storage:** Local-first + cloud-optional JSON/CSV  
 - **Format support:** QASM, CSV, JSON, Markdown metadata
 
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/nightsea-eu/atheneia/instruments/open-data-hub
-cd open-data-hub
-
-cd frontend
-npm install
-npm run dev
-```
-
-Backend setup info in `/docs/setup.md`
-
----
-
-## 📚 Documentation
-
-- `/docs/dataset-schema.md` – Supported data formats  
-- `/docs/use-cases.md` – Example classroom + lab applications  
-- `/docs/architecture.md` – Backend and frontend layout
 
 ---
 
@@ -67,8 +56,7 @@ Licensed under **Apache 2.0**
 
 ## 🤝 Maintainer
 
-**Night Sea**  
-https://nightsea.eu/research.html
+[**Night Sea**  (https://nightsea.eu/research.html)]
 
 ---
 
