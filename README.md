@@ -51,7 +51,7 @@ Analytical systems to help scientists and decision-makers understand complex qua
 Foundational systems that power reproducibility, interoperability, and sustainable access across the ecosystem.
    * [Open Quantum Data Hub for Research & Teaching](instruments/open-data-hub)
 
-*(For the full project portfolio, see the [PROJECTS.md](./PROJECTS.md) document.)*
+*(For the full project portfolio, see the [PROJECTS](./PROJECTS.md) document.)*
 
 ---
 
