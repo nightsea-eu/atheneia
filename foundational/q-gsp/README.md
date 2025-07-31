@@ -62,6 +62,8 @@ This repository will host the first modular delivery of the tool upon funding an
 
 ---
 
+## 🧭 Part of the Atheneia Platform
+
 This project is part of the [Atheneia Platform](https://github.com/nightsea-eu/atheneia-platform), an open science initiative by [Night Sea](https://nightsea.eu/research.html) developing modular tools at the intersection of:
 
 🧠 Cognition — 🧮 Quantum Computing — 🤖 AI — 🌍 Sustainability
