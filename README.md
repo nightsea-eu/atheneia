@@ -2,7 +2,7 @@
 
 > **Learning by Delivering: Practical Innovation at the AI–Quantum–Cognition Nexus**
 
-Atheneia is an open research and development platform by **Night Sea (NS)**, dedicated to building **modular, web-based research tools** that help scientists, researchers, and decision-makers understand complexity, explore quantum computing, and apply AI responsibly for environmental and societal benefit.
+Atheneia is an open research and development platform by **Night Sea**, dedicated to building **modular, web-based research tools** that help scientists, researchers, and decision-makers understand complexity, explore quantum computing, and apply AI responsibly for environmental and societal benefit.
 
 ---
 
@@ -92,7 +92,7 @@ To propose contributions or partnerships, please contact **[atheneia@nightsea.eu
 ## 📜 License
 
 This project is licensed under the [Apache License 2.0](./LICENSE).
-Copyright © 2025 **Night Sea (NS)**.
+Copyright © 2025 **Night Sea**.
 Part of the **Atheneia Platform**, delivering open research tools for AI, Quantum, and Cognition.
 
 ---
