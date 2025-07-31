@@ -56,7 +56,7 @@ Licensed under **Apache 2.0**
 
 ## 🤝 Maintainer
 
-[**Night Sea**  (https://nightsea.eu/research.html)]
+[**Night Sea**](https://nightsea.eu/research.html)
 
 ---
 
