@@ -1,31 +1,24 @@
-# Quantum Gate Sequence Predictor (Q-GSP)
+# Quantum Circuit Explorer (QCE)
 
-**AI-aided quantum reasoning tool for learners and researchers**  
-An open-source interface for building, predicting, and understanding quantum circuit logic — with real-time guidance and explainability.
+**Interactive quantum circuit builder with AI-aided insights**  
+An open-source interface for constructing, visualising, and understanding quantum circuits in real time — designed for students, researchers, and educators.
 
 ---
 
 ## 🔍 About the Project
 
-**Quantum Gate Sequence Predictor (Q-GSP)** is part of the **Atheneia** platform's foundational suite of quantum learning tools. It helps users construct valid quantum circuits by offering:
-
-- Predictive suggestions for the next logical gate
-- Explanatory overlays for reasoning and learning
-- Modular architecture designed for educational and research use
-
-This project aims to lower the barrier to quantum programming by combining visual interactivity with explainable AI.
+**Quantum Circuit Explorer** allows users to build multi-qubit quantum circuits via an intuitive drag-and-drop interface, view gate effects, simulate outcomes, and receive AI-generated logic explanations for learning and debugging.
 
 ---
 
 ## 🎯 Key Features
 
-- **Context-aware gate predictions**
-- **Interactive circuit builder** (drag-and-drop)
-- **Explainable AI logic modules**
-- **Export to QASM-lite or JSON**
-- **Embeddable components for reuse**
-
-All features are designed for local/offline use with no vendor lock-in.
+- Visual quantum circuit canvas  
+- Drag-and-drop gate placement  
+- Real-time transformation viewer  
+- AI-aided logic summaries  
+- Export to JSON or QASM-lite  
+- Reusable UI modules (React, Storybook)
 
 ---
 
@@ -33,26 +26,28 @@ All features are designed for local/offline use with no vendor lock-in.
 
 This repository will host the first modular delivery of the tool upon funding and development. The planned scope includes:
 
-- Basic UI for 1–3 qubit circuits
-- Rule-based prediction engine
-- Reasoning overlay with educational feedback
-- JSON export format
-- React-based component design (Vite + Storybook)
+- Basic UI for 1–3 qubit circuits  
+- Rule-based gate explanation module  
+- Real-time state tracking for teaching  
+- JSON export format  
+- Reusable frontend components
 
 ---
 
 ## 📦 Tech Stack
 
-- **Frontend:** React, TypeScript, Vite, Storybook  
-- **Backend:** Python (FastAPI)  
-- **Prediction Logic:** Rule-based (LLM optional module planned)  
-- **Data Format:** QASM-lite + JSON
+- **Frontend:** React, TypeScript, Vite  
+- **Backend:** Python (FastAPI, if needed)  
+- **Explainability:** Rule-based logic module  
+- **Data Format:** JSON + QASM-lite
+
+
 
 ---
 
 ## 🌐 License
 
-[Licensed under **Apache 2.0**](LICENSE)
+[Licensed under **Apache 2.0**](license)
 
 ---
 
@@ -66,8 +61,6 @@ This repository will host the first modular delivery of the tool upon funding an
 
 This project is part of the [Atheneia Platform](https://github.com/nightsea-eu/atheneia-platform), an open science initiative by [Night Sea](https://nightsea.eu/research.html) developing modular tools at the intersection of:
 
- 🧠 Cognition — 🧮 Quantum Computing — 🤖 AI — 🌍 Sustainability
-
-> _Making quantum logic visible, intuitive, and learner-friendly._
+🧠 Cognition — 🧮 Quantum Computing — 🤖 AI — 🌍 Sustainability
 
 The platform is committed to open, local-first, and privacy-preserving technologies for research reproducibility, knowledge access, and responsible quantum infrastructure.
