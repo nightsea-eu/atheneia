@@ -53,7 +53,7 @@ Licensed under **Apache 2.0**
 
 ## 🤝 Maintainer
 
-[**Night Sea**](https://nightsea.eu/research.html)
+[atheneia@nightsea.eu](https://nightsea.eu/research.html)
 
 ---
 
