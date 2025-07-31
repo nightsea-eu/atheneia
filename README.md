@@ -31,7 +31,7 @@ Our goals:
 ## 🧩 Current Lines of Work
 Atheneia currently focuses on three coordinated lines of open research infrastructure:
 
-### 🎓 Line 1: Education & Research Tools  
+### 🎓 Line 1: Education & Research Tools 
 Modular teaching and exploration tools that make quantum computing, AI, and cognition accessible for learners and researchers.
    * Q-Kit: Modular Quantum Teaching SDK
    * [Quantum Circuit Explorer (QCE)](foundational/qce)
@@ -39,7 +39,7 @@ Modular teaching and exploration tools that make quantum computing, AI, and cogn
    * [Quantum Gate Sequence Predictor (Q-GSP)](foundational/q-gsp)
    * Q-Insight Engine for Sustainability Intelligence
 
-### 🧠 Line 2: Complexity Insight Instruments  
+### 🧠 Line 2: Complexity Insight Instruments 
 Analytical systems to help scientists and decision-makers understand complex quantum–AI–cognitive systems.
    * Quantum Eco-Behavioural Analytics Platform
    * Quantum Explainability Engine
@@ -47,7 +47,7 @@ Analytical systems to help scientists and decision-makers understand complex qua
    * Cognitive Reef Mirror
    * AI-Powered Climate Decision Support Toolkit
   
-### 🧱 Line 3: Infrastructure Support Tools  
+### 🧱 Line 3: Infrastructure Support Tools 
 Foundational systems that power reproducibility, interoperability, and sustainable access across the ecosystem.
    * [Open Quantum Data Hub for Research & Teaching](instruments/open-data-hub)
 
