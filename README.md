@@ -85,7 +85,7 @@ npm install
 Atheneia is in **active pre-release development**.
 We welcome collaborations, particularly from researchers and developers aligned with our mission of **open, beneficial intelligence**.
 
-To propose contributions or partnerships, please contact **[info@nightsea.eu](mailto:info@nightsea.eu)**.
+To propose contributions or partnerships, please contact **[atheneia@nightsea.eu](mailto:atheneia@nightsea.eu)**.
 
 ---
 
