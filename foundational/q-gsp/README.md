@@ -3,7 +3,6 @@
 **AI-aided quantum reasoning tool for learners and researchers**  
 An open-source interface for building, predicting, and understanding quantum circuit logic — with real-time guidance and explainability.
 
-
 ---
 
 ## 🔍 About the Project
@@ -68,7 +67,3 @@ This repository will host the first modular delivery of the tool upon funding an
 Q-GSP is a foundational project of **Atheneia**, an open research initiative building modular tools at the intersection of:
 
 > 🧠 Cognition — 🧮 Quantum Computing — 🤖 AI — 🌍 Sustainability
-
-
-
----
