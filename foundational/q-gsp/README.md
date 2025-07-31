@@ -3,7 +3,6 @@
 **AI-aided quantum reasoning tool for learners and researchers**  
 An open-source interface for building, predicting, and understanding quantum circuit logic — with real-time guidance and explainability.
 
-
 ---
 
 ## 🔍 About the Project
@@ -30,9 +29,9 @@ All features are designed for local/offline use with no vendor lock-in.
 
 ---
 
-## 🧪 Initial Functional Prototype
+## 🧪 Initial Delivery Scope
 
-This repository currently hosts the first modular release, which includes:
+This repository will host the first modular delivery of the tool upon funding and development. The planned scope includes:
 
 - Basic UI for 1–3 qubit circuits
 - Rule-based prediction engine
@@ -51,61 +50,24 @@ This repository currently hosts the first modular release, which includes:
 
 ---
 
-## 🚀 Getting Started
-
-To run locally:
-
-```bash
-# Clone the repo
-git clone https://github.com/nightsea-eu/atheneia/foundational/g-gsp
-cd g-gsp
-
-# Install frontend
-cd frontend
-npm install
-npm run dev
-
-# Install backend
-cd ../backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-More setup instructions available in `/docs/setup.md`.
-
----
-
-## 📚 Documentation
-
-- **Architecture** → `/docs/architecture.md`  
-- **Design Decisions** → `/docs/design-notes.md`  
-- **Learning Path Integration** → `/docs/learning-flow.md`
-
-We welcome educational reuse and remixing. Contributions are open.
-
----
-
 ## 🌐 License
 
-Licensed under **Apache 2.0**.  
-All code and models are open, local-first, and privacy-preserving.
+[Licensed under **Apache 2.0**](LICENSE)
 
 ---
 
 ## 🤝 Maintainer
 
-**Night Sea (NIGHT SEA EURL)**  
-[https://nightsea.eu](https://nightsea.eu/research.html)  
-Paris, France — SIREN 987 943 107
+[atheneia@nightsea.eu](https://nightsea.eu/research.html)
 
 ---
 
 ## 🧭 Part of the Atheneia Platform
 
-Q-GSP is a foundational project of **Atheneia**, an open research initiative building modular tools at the intersection of:
+This project is part of the [Atheneia Platform](https://github.com/nightsea-eu/atheneia-platform), an open science initiative by [Night Sea](https://nightsea.eu/research.html) developing modular tools at the intersection of:
 
-> 🧠 Cognition — 🧮 Quantum Computing — 🤖 AI — 🌍 Sustainability
+🧠 Cognition — 🧮 Quantum Computing — 🤖 AI — 🌍 Sustainability
 
+_Optimising the invisible — bridging quantum theory and real circuit design._
 
-
----
+The platform is committed to open, local-first, and privacy-preserving technologies for research reproducibility, knowledge access, and responsible quantum infrastructure.

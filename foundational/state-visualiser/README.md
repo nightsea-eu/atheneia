@@ -44,7 +44,7 @@ This repository will host the first modular delivery of the tool upon funding an
 
 ## 🌐 License
 
-Licensed under **Apache 2.0**
+[Licensed under **Apache 2.0**](LICENSE)
 
 ---
 
@@ -54,6 +54,12 @@ Licensed under **Apache 2.0**
 
 ---
 
-## 🧭 Part of Atheneia
+## 🧭 Part of the Atheneia Platform
 
-> Making quantum logic visible, intuitive, and learner-friendly.
+This project is part of the [Atheneia Platform](https://github.com/nightsea-eu/atheneia-platform), an open science initiative by [Night Sea](https://nightsea.eu/research.html) developing modular tools at the intersection of:
+
+🧠 Cognition — 🧮 Quantum Computing — 🤖 AI — 🌍 Sustainability
+
+_Explore the strange beauty of quantum states through guided interactivity._
+
+The platform is committed to open, local-first, and privacy-preserving technologies for research reproducibility, knowledge access, and responsible quantum infrastructure.

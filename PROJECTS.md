@@ -38,6 +38,14 @@ Each project is a **modular research tool** designed for **rapid, focused delive
 
 ---
 
+## 🧱 Infrastructure Support Tools
+
+| Project                                             | Family     | Category | Status     |
+|-----------------------------------------------------|------------|----------|------------|
+| Open Quantum Data Hub for Research & Teaching       | Quantalis  | Platform | Planned |
+
+---
+
 ## 📜 License
 
 All projects under the Atheneia Platform are released under the [Apache License 2.0](./LICENSE).  
