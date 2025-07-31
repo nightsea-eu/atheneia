@@ -74,8 +74,6 @@ git clone https://github.com/nightsea-eu/atheneia.git
 # Install dependencies
 npm install
 
-# Run development server
-npm run dev
 ```
 
 *(Individual project folders include their own setup instructions.)*
