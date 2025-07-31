@@ -41,13 +41,12 @@ This repository will host the first modular delivery of the tool upon funding an
 - **Explainability:** Rule-based logic module  
 - **Data Format:** JSON + QASM-lite
 
-
-
 ---
 
 ## 🌐 License
 
 [Licensed under **Apache 2.0**](license)
+All code and models are open, local-first, and privacy-preserving.
 
 ---
 
