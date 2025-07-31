@@ -97,4 +97,4 @@ Part of the **Atheneia Platform**, delivering open research tools for AI, Quantu
 
 ---
 
-**Night Sea (NS)** – Delivering modular tools for **insight, reasoning, and scientific exploration**.
+**Night Sea** – Delivering modular tools for **insight, reasoning, and scientific exploration**.
