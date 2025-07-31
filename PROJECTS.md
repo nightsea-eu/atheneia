@@ -14,7 +14,8 @@ Each project is a **modular research tool** designed for **rapid, focused delive
 
 ---
 
-## 🚀 Line 1 – Education & Research Tools
+## 🎓 Line 1: Education & Research Tools 
+Modular teaching and exploration tools that make quantum computing, AI, and cognition accessible for learners and researchers.
 
 | Project | Family | Category | Status |
 |---------|--------|----------|--------|
@@ -26,7 +27,8 @@ Each project is a **modular research tool** designed for **rapid, focused delive
 
 ---
 
-## 🌌 Line 2 – Complexity Insight Instruments
+## 🧠 Line 2: Complexity Insight Instruments 
+Analytical systems to help scientists and decision-makers understand complex quantum–AI–cognitive systems.
 
 | Project | Family | Category | Status |
 |---------|--------|----------|--------|
@@ -38,7 +40,8 @@ Each project is a **modular research tool** designed for **rapid, focused delive
 
 ---
 
-## 🧱 Infrastructure Support Tools
+## 🧱 Line 3: Infrastructure Support Tools 
+Foundational systems that power reproducibility, interoperability, and sustainable access across the ecosystem.
 
 | Project                                             | Family     | Category | Status     |
 |-----------------------------------------------------|------------|----------|------------|

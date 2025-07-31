@@ -2,7 +2,7 @@
 
 > **Learning by Delivering: Practical Innovation at the AI–Quantum–Cognition Nexus**
 
-Atheneia is an open research and development platform by **Night Sea (NS)**, dedicated to building **modular, web-based research tools** that help scientists, researchers, and decision-makers understand complexity, explore quantum computing, and apply AI responsibly for environmental and societal benefit.
+Atheneia is an open research and development platform by **Night Sea**, dedicated to building **modular, web-based research tools** that help scientists, researchers, and decision-makers understand complexity, explore quantum computing, and apply AI responsibly for environmental and societal benefit.
 
 ---
 
@@ -28,25 +28,30 @@ Our goals:
 
 ---
 
-## 🚀 Current Lines of Work
+## 🧩 Current Lines of Work
+Atheneia currently focuses on three coordinated lines of open research infrastructure:
 
-1. **Line 1 – Education & Research Tools**
-
+### 🎓 Line 1: Education & Research Tools 
+Modular teaching and exploration tools that make quantum computing, AI, and cognition accessible for learners and researchers.
    * Q-Kit: Modular Quantum Teaching SDK
    * [Quantum Circuit Explorer (QCE)](foundational/qce)
    * [Interactive Quantum State Visualiser](foundational/state-visualiser)
    * [Quantum Gate Sequence Predictor (Q-GSP)](foundational/q-gsp)
    * Q-Insight Engine for Sustainability Intelligence
 
-2. **Line 2 – Complexity Insight Instruments**
-   * [Open Quantum Data Hub](instruments/open-data-hub)
+### 🧠 Line 2: Complexity Insight Instruments 
+Analytical systems to help scientists and decision-makers understand complex quantum–AI–cognitive systems.
    * Quantum Eco-Behavioural Analytics Platform
    * Quantum Explainability Engine
    * Quantum Knowledge Navigator for Academic Search
    * Cognitive Reef Mirror
    * AI-Powered Climate Decision Support Toolkit
+  
+### 🧱 Line 3: Infrastructure Support Tools 
+Foundational systems that power reproducibility, interoperability, and sustainable access across the ecosystem.
+   * [Open Quantum Data Hub for Research & Teaching](instruments/open-data-hub)
 
-*(For the full project portfolio, see the [PROJECTS.md](./PROJECTS.md) document.)*
+*(For the full project portfolio, see the [PROJECTS](./PROJECTS.md) document.)*
 
 ---
 
@@ -69,8 +74,6 @@ git clone https://github.com/nightsea-eu/atheneia.git
 # Install dependencies
 npm install
 
-# Run development server
-npm run dev
 ```
 
 *(Individual project folders include their own setup instructions.)*
@@ -82,16 +85,16 @@ npm run dev
 Atheneia is in **active pre-release development**.
 We welcome collaborations, particularly from researchers and developers aligned with our mission of **open, beneficial intelligence**.
 
-To propose contributions or partnerships, please contact **[info@nightsea.eu](mailto:info@nightsea.eu)**.
+To propose contributions or partnerships, please contact **[atheneia@nightsea.eu](mailto:atheneia@nightsea.eu)**.
 
 ---
 
 ## 📜 License
 
 This project is licensed under the [Apache License 2.0](./LICENSE).
-Copyright © 2025 **Night Sea (NS)**.
+Copyright © 2025 **Night Sea**.
 Part of the **Atheneia Platform**, delivering open research tools for AI, Quantum, and Cognition.
 
 ---
 
-**Night Sea (NS)** – Delivering modular tools for **insight, reasoning, and scientific exploration**.
+**Night Sea** – Delivering modular tools for **insight, reasoning, and scientific exploration**.
