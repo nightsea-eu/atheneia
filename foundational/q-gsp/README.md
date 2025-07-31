@@ -30,9 +30,9 @@ All features are designed for local/offline use with no vendor lock-in.
 
 ---
 
-## 🧪 Initial Functional Prototype
+## 🧪 Initial Delivery Scope
 
-This repository currently hosts the first modular release, which includes:
+This repository will host the first modular delivery of the tool upon funding and development. The planned scope includes:
 
 - Basic UI for 1–3 qubit circuits
 - Rule-based prediction engine
