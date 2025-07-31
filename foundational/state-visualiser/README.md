@@ -1,54 +1,44 @@
 # Interactive Quantum State Visualiser for Students
 
 **A learning tool to explore quantum state evolution**  
-This project provides an open, interactive visualiser for students to simulate and observe how quantum gates affect qubit states — enriched with AI-aided explanations and visual metaphors.
-
-![Atheneia Logo](https://atheneia.eu/assets/logo-dark.svg)
+An open-source interface to simulate how quantum gates affect qubit states, with step-by-step visualisation and AI-aided explanations.
 
 ---
 
 ## 🔍 About the Project
 
-**State Visualiser** helps students understand how quantum states transform across steps by combining Bloch sphere views, vector representations, and pedagogical overlays. It’s designed for visual, intuitive learning.
+This project helps students and educators understand how qubit states evolve by providing visual metaphors (Bloch sphere, vectors) alongside gate-by-gate tracking and explanation.
 
 ---
 
 ## 🎯 Key Features
 
-- Step-by-step state simulation  
-- Bloch sphere + vector visualisation  
-- Gate-by-gate state progression  
-- Local AI-assisted explanation module  
-- Designed for self-learning, classrooms, and labs
+- Stepwise gate application with visual feedback  
+- Bloch sphere and vector visualisation  
+- Local explainability engine  
+- Designed for learning, teaching, and lab exploration  
+- Exportable state logs for reuse
+
+---
+
+## 🧪 Initial Delivery Scope
+
+This repository will host the first modular delivery of the tool upon funding and development. The planned scope includes:
+
+- 1–3 qubit support with simple gate sets  
+- Visualisation canvas (Bloch + vector)  
+- Overlay explanations for each gate  
+- Lightweight simulator backend (optional)
 
 ---
 
 ## 📦 Tech Stack
 
-- **Frontend:** React, TypeScript, Vite, Three.js or d3.js  
-- **Backend:** Optional — FastAPI if simulation is offloaded  
-- **Explainability:** Lightweight rule-based explanations
+- **Frontend:** React, TypeScript, Vite, Three.js or D3  
+- **Backend:** Optional – Python (FastAPI)  
+- **Explainability:** Rule-based + visual guide
 
----
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/nightsea-eu/atheneia/foundational/state-visualiser
-cd state-visualiser
-
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-## 📚 Documentation
-
-- `/docs/state-model.md` – Quantum state tracking  
-- `/docs/visualisation-logic.md` – How visual overlays work  
-- `/docs/learning-use-cases.md` – Student usage examples
 
 ---
 
@@ -60,11 +50,10 @@ Licensed under **Apache 2.0**
 
 ## 🤝 Maintainer
 
-**Night Sea**  
-https://nightsea.eu/research.html
+[atheneia@nightsea.eu](https://nightsea.eu/research.html)
 
 ---
 
 ## 🧭 Part of Atheneia
 
-> Building open learning instruments at the frontier of 🧠 cognition, 🧮 quantum logic, and 🤖 AI-powered reasoning.
+> Making quantum logic visible, intuitive, and learner-friendly.
