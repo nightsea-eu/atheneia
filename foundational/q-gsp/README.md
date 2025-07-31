@@ -51,52 +51,16 @@ This repository currently hosts the first modular release, which includes:
 
 ---
 
-## 🚀 Getting Started
-
-To run locally:
-
-```bash
-# Clone the repo
-git clone https://github.com/nightsea-eu/atheneia/foundational/g-gsp
-cd g-gsp
-
-# Install frontend
-cd frontend
-npm install
-npm run dev
-
-# Install backend
-cd ../backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-More setup instructions available in `/docs/setup.md`.
-
----
-
-## 📚 Documentation
-
-- **Architecture** → `/docs/architecture.md`  
-- **Design Decisions** → `/docs/design-notes.md`  
-- **Learning Path Integration** → `/docs/learning-flow.md`
-
-We welcome educational reuse and remixing. Contributions are open.
-
----
-
 ## 🌐 License
 
-Licensed under **Apache 2.0**.  
+[Licensed under **Apache 2.0**](LICENSE)
 All code and models are open, local-first, and privacy-preserving.
 
 ---
 
 ## 🤝 Maintainer
 
-**Night Sea (NIGHT SEA EURL)**  
-[https://nightsea.eu](https://nightsea.eu/research.html)  
-Paris, France — SIREN 987 943 107
+[atheneia@nightsea.eu](https://nightsea.eu/research.html)
 
 ---
 
