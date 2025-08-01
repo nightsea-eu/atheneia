@@ -1,17 +1,18 @@
 # Perspective Playground: Diverse Viewpoint Reasoning Enabler
 
 An open, cognitive-support tool for mapping diverse reasoning on complex topics
-This project delivers an open-source web application that helps **researchers**, knowledge workers, and **critical thinkers explore**, compare, and annotate multiple viewpoints on the same scenario. It supports better insight, clearer framing, and cognitive diversity in complex reasoning tasks.
+
+This project delivers an open-source web application that helps researchers, knowledge workers, and critical thinkers explore, compare, and annotate multiple viewpoints on the same scenario. It supports better insight, clearer framing, and cognitive diversity in complex reasoning tasks.
 
 ---
 
 ## 🔍 About the Project
 
-**Perspective Playground** is part of the **Atheneia Platform**, designed to **make reasoning diversity visible**. It enables:
+**Perspective Playground** is part of the Atheneia Platform, designed to **make reasoning diversity visible**. It enables:
 
-- Structured mapping of **different interpretations** of a shared context  
+- Structured mapping of different interpretations of a shared context  
 - Lightweight, local-first extraction of arguments and reasoning links  
-- Visual, interactive exploration of **plural framings**, without forcing consensus  
+- Visual, interactive exploration of plural framings, without forcing consensus  
 - Exports for reporting, research, or teaching reuse
 
 It builds **cognitive resilience** by showing how different domains perceive and reason about the same situation in **structurally divergent ways**.
@@ -24,7 +25,6 @@ It builds **cognitive resilience** by showing how different domains perceive and
 - Detect and visualise multiple viewpoints and reasoning chains  
 - Graph-based interactive playground for annotations and edits  
 - Export reasoning maps (JSON/PDF) for collaboration or teaching  
-- **Local-first**, offline-friendly, open-source (Apache 2.0 patching license)
 
 ---
 
