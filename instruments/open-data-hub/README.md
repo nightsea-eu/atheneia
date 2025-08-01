@@ -50,13 +50,13 @@ This repository will host the first modular delivery of the tool upon funding an
 
 ## 🌐 License
 
-[Licensed under **Apache 2.0**](LICENSE)
+[Licensed under **Apache 2.0** (patching-friendly)](LICENSE)
 
 ---
 
 ## 🤝 Maintainer
 
-[atheneia@nightsea.eu](https://nightsea.eu/research.html)
+[research@nightsea.eu](https://nightsea.eu/research.html) – Developed and delivered by Night Sea, an R&D company with 20+ years of experience in building insight-driven web applications across multiple domains.
 
 ---
 

@@ -1,29 +1,30 @@
-# Open Quantum Data Hub for Research & Teaching
+# Perspective Playground: Diverse Viewpoint Reasoning Enabler
 
-**A commons-oriented platform for quantum datasets and educational reuse**  
-This project provides an open-source data portal and interface to access, annotate, and reuse quantum computing datasets for research, reproducibility, and teaching purposes.
+An open, cognitive-support tool for mapping diverse reasoning on complex topics
+This project delivers an open-source web application that helps **researchers**, knowledge workers, and **critical thinkers explore**, compare, and annotate multiple viewpoints on the same scenario. It supports better insight, clearer framing, and cognitive diversity in complex reasoning tasks.
 
 ---
 
 ## 🔍 About the Project
 
-**Open Quantum Data Hub** is designed to foster openness and collaboration in quantum research by enabling:
+**Perspective Playground** is part of the **Atheneia Platform**, designed to **make reasoning diversity visible**. It enables:
 
-- Dataset sharing and discovery  
-- Lightweight metadata curation  
-- Educational annotations and teaching-ready exports
+- Structured mapping of **different interpretations** of a shared context  
+- Lightweight, local-first extraction of arguments and reasoning links  
+- Visual, interactive exploration of **plural framings**, without forcing consensus  
+- Exports for reporting, research, or teaching reuse
 
-It enables reproducibility, cross-institutional reuse, and a more accessible entry point for learners and educators.
+It builds **cognitive resilience** by showing how different domains perceive and reason about the same situation in **structurally divergent ways**.
 
 ---
 
 ## 🎯 Key Features
 
-- Quantum dataset registry (public or user-added)  
-- Tagging and annotation system for educational value  
-- Export in teaching formats (CSV, JSON, QASM)  
-- API access for reproducibility workflows  
-- Search by topic, gate type, algorithm, or author
+- Import texts (reports, papers, articles)  
+- Detect and visualise multiple viewpoints and reasoning chains  
+- Graph-based interactive playground for annotations and edits  
+- Export reasoning maps (JSON/PDF) for collaboration or teaching  
+- **Local-first**, offline-friendly, open-source (Apache 2.0 patching license)
 
 ---
 
@@ -31,41 +32,42 @@ It enables reproducibility, cross-institutional reuse, and a more accessible ent
 
 This repository will host the first modular delivery of the tool upon funding and development. The planned scope includes:
 
-- Dataset loader and listing UI  
-- Metadata editing and annotation features  
-- Teaching export options (JSON, CSV, QASM-lite)  
-- API endpoints for integration and search
+- Document loader (TXT/PDF) and viewpoint extraction  
+- Reasoning-chain mapping with manual corrections  
+- Visual interface for comparing interpretations  
+- Export to JSON/PDF for reuse  
+- Canonical data schema for future Atheneia interoperability
 
 ---
 
 ## 📦 Tech Stack
 
-- **Frontend:** React, TypeScript, Vite  
+- **Frontend:** React, TypeScript, Vite, Tailwind  
 - **Backend:** Python (FastAPI) + SQLite  
-- **Storage:** Local-first + cloud-optional JSON/CSV  
-- **Format support:** QASM, CSV, JSON, Markdown metadata
-
+- **Storage:** Local-first JSON and SQLite persistence; optional flat-file export for interoperability  
+- **Local-first:** Runs fully offline, no paid APIs or external calls
+- **NLP:** Open-source argument-mining and clustering models  
 
 ---
 
 ## 🌐 License
 
-[Licensed under **Apache 2.0**](LICENSE)
+[Licensed under **Apache 2.0** (patching-friendly)](LICENSE)
 
 ---
 
 ## 🤝 Maintainer
 
-[atheneia@nightsea.eu](https://nightsea.eu/research.html)
+[research@nightsea.eu](https://nightsea.eu/research.html) – Developed and delivered by Night Sea, an R&D company with 20+ years of experience in building insight-driven web applications across multiple domains.
 
 ---
 
 ## 🧭 Part of the Atheneia Platform
 
-This project is part of the [Atheneia Platform](https://github.com/nightsea-eu/atheneia-platform), an open science initiative by [Night Sea](https://nightsea.eu/research.html) developing modular tools at the intersection of:
+This project is part of the [Atheneia Platform](https://github.com/nightsea-eu/atheneia-platform), developing AI-augmented cognitive tools at the intersection of:
 
-🧠 Cognition — 🧮 Quantum Computing — 🤖 AI — 🌍 Sustainability
+🧠 **Cognition** — 🤖 **AI** — 🌍 **Societal Insight**
 
-_Unlocking open access to quantum datasets for learning, research, and reuse._
+_Making diverse reasoning visible, navigable, and bias-resistant._  
 
-The platform is committed to open, local-first, and privacy-preserving technologies for research reproducibility, knowledge access, and responsible quantum infrastructure.
+The platform is committed to open, local-first, privacy-preserving software, supporting better thinking, research reproducibility, and responsible digital infrastructures.
