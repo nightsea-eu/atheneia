@@ -30,7 +30,7 @@ Each project is designed for fast delivery, modular reuse, and lasting value.
 
 ---
 
-## 🧹 Lines of Development
+## 🩹 Lines of Development
 
 Atheneia projects are grouped into focused, modular Lines. Each tool is solo-feasible, strategically fundable, and directly useful to research, science, or wellbeing contexts.
 
@@ -126,15 +126,14 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### 9. Human Connection & Resilience Interfaces
+### 9. Resilience Interfaces  
 **Purpose**: Tools that support emotional insight, interpersonal reasoning, and inner navigation — especially for individuals working in isolation, high-pressure contexts, or under cognitive/emotional strain.
 
 **Examples**:
-- **Resilience Interface** – a solo-aligned tool for emotional clarity and action planning  
-- **Quantum Storytelling Engine** – narrative-based interface for reflective insight  
-- **Wellbeing-Optimised Marine Twin** – a model integrating environment and psychological load  
-- **Oceanic AI Conflict Navigator** – supporting alignment and de-escalation in marine contexts  
-- **Ethical AI Marine Guide** – a trust-oriented companion for high-stakes systems
+- **Resilience Interface** – Helps users understand what they’re passing through and design micro-strategies to overcome and thrive  
+- **Agency Meter** – Breaks down any challenge into actionable, preparable, and let-go zones; tracks small wins to rebuild agency  
+- **Signal Well** – A private emotional outlet where users can write freely and receive gentle, clarity-building prompts  
+- **Clarity Compass** – Helps users clarify what truly matters under cognitive pressure using focused questions and branching prompts
 
 ---
 
