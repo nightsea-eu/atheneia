@@ -1,8 +1,8 @@
 # Atheneia Platform
 
-> **Learning by Delivering — Modular Intelligence for Science, Wellbeing & Sustainability**
+> **Learning by Delivering — Modular Intelligence for Science, Cognition & Planetary Systems**
 
-**Atheneia** is a modular R&D platform created by **Night Sea**, delivering open-source, web-based tools at the intersection of **AI**, **Quantum Computing**, and reflective system design.
+**Atheneia** is a modular R&D platform created by **Night Sea**, delivering open-source, web-based tools at the intersection of **AI**, **Quantum Computing**, and **Cognitive Systems**.
 
 Our tools empower researchers, educators, and decision-makers to explore complex systems, model intelligence with transparency, and act with purpose across scientific, societal, and sustainability domains.
 
@@ -13,7 +13,7 @@ Our tools empower researchers, educators, and decision-makers to explore complex
 Atheneia builds intelligence that serves clarity, alignment, and real-world impact.
 
 We believe open tools should:
-- Accelerate scientific learning in quantum and AI, while delivering tools that promote wellbeing and insight  
+- Accelerate scientific learning in quantum, AI, and cognition  
 - Support critical decision-making with transparent reasoning  
 - Strengthen research equity, wellbeing, and sustainability  
 
@@ -25,8 +25,8 @@ Each project is designed for fast delivery, modular reuse, and lasting value.
 
 - **AI for Insight** – Decision-support tools grounded in explainability  
 - **Quantum for Learning** – Exploratory tools to teach and simulate circuits, gates, and states  
-- **Reflective Systems** – Interfaces that support clarity, self-awareness, and ethical modelling  
-- **Wellbeing & Sustainability** – Tools that strengthen resilience, therapeutic insight, and ecological alignment
+- **Cognition for Alignment** – Interfaces that reflect reasoning, intention, and mental models  
+- **Resilience & Sustainability** – Systems that address ecological, societal, and personal stability
 
 ---
 
@@ -49,7 +49,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 ---
 
 ### 🧠 Line 2 – Complexity Insight Instruments  
-**Purpose**: Support researchers and decision-makers in understanding multi-layered, high-stakes systems using explainable AI and reflective modelling.
+**Purpose**: Support researchers and decision-makers in understanding multi-layered, high-stakes systems using explainable AI and cognitive modelling.
 
 **Examples**:
 - **Quantum Explainability Engine**  
@@ -84,7 +84,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 ---
 
 ### 🧘 Line 5 – Cognitive Ethics & Reflective Systems  
-**Purpose**: Reflective and wellbeing-aligned tools supporting ethical modelling, psychological insight, and responsible AI development.
+**Purpose**: Cognitive-aligned tools supporting ethical modelling, psychological insight, and responsible AI development.
 
 **Examples**:
 - Explainability sandbox for sensitive or regulated contexts  
@@ -105,8 +105,8 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### 🔬 Line 7 – Scientific & Reflective System Explorers  
-**Purpose**: Tools that deepen scientific understanding of quantum logic, reflective feedback, and system-level insight.
+### 🔬 Line 7 – Scientific & Cognitive System Explorers  
+**Purpose**: Tools that deepen scientific understanding of quantum logic, cognitive feedback, and system-level insight.
 
 **Examples**:
 - **Quantum Multispecies Simulator**  
@@ -115,14 +115,26 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### 🔠 Line 8 – Resilience & Reflective Interfaces  
-**Purpose**: Conceptual systems that enhance behavioural insight, wellbeing, and human-environmental resilience.
+### 🔠 Line 8 – Resilience & Cognitive Interfaces  
+**Purpose**: Conceptual systems that enhance behavioural insight, cognitive clarity, and environmental-human resilience.
 
 **Examples**:
 - **Quantum Eco-Behavioural Analytics Platform**  
 - **Resilient Habitat Planner**  
 - **Quantum Storytelling Engine**  
 - **Cognitive Reef Mirror** *(also featured in Line 2)*
+
+---
+
+### 💬 Line 9 – Human Connection & Resilience Interfaces
+**Purpose**: Tools that support emotional insight, interpersonal reasoning, and inner navigation — especially for individuals working in isolation, high-pressure contexts, or under cognitive/emotional strain.
+
+**Examples**:
+- **Resilience Interface** – a solo-aligned tool for emotional clarity and action planning  
+- **Quantum Storytelling Engine** – narrative-based interface for reflective insight  
+- **Wellbeing-Optimised Marine Twin** – a model integrating environment and psychological load  
+- **Oceanic AI Conflict Navigator** – supporting alignment and de-escalation in marine contexts  
+- **Ethical AI Marine Guide** – a trust-oriented companion for high-stakes systems
 
 ---
 
@@ -135,14 +147,13 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 - **AI/ML:** PyTorch, Scikit-learn, Explainable AI (XAI) modules  
 - **Design Principles:** Modular • Open-first • Purpose-aligned
 
-
 ---
 
 ## 🤝 Collaboration & Contact
 
 Atheneia is under active development and welcomes aligned contributors from:
 
-- Research groups in AI, Quantum Computing, reflective system design, or environmental science  
+- Research groups in AI, Quantum Computing, Cognition, or Environmental Science  
 - Translational scientists and mental health innovators  
 - Ethical system designers and open-source developers
 
@@ -154,9 +165,9 @@ Atheneia is under active development and welcomes aligned contributors from:
 
 Licensed under the [Apache License 2.0](./LICENSE)  
 © 2025 **Night Sea**  
-Part of the **Atheneia Platform**, delivering modular intelligence systems for science, wellbeing, and sustainability.
+Part of the **Atheneia Platform**, delivering modular intelligence systems for science, society, and sustainability.
 
 ---
 
 **Night Sea**  
-Delivering modular, intelligent systems at the frontier of AI, quantum computing, and reflective system design — helping researchers and decision-makers tackle real-world complexity.
+Building build modular, intelligent systems at the frontier of AI, quantum computing, and cognitive insight — helping researchers and decision-makers tackle real-world complexity.
