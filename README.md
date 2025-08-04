@@ -1,6 +1,6 @@
 # Atheneia Platform
 
-> **Learning by Delivering — Modular Intelligence for Science, Cognition & Planetary Systems**
+> **Learning by Delivering — Modular Intelligence for Science, Cognition & Sustainability**
 
 **Atheneia** is a modular R&D platform created by **Night Sea**, delivering open-source, web-based tools at the intersection of **AI**, **Quantum Computing**, and **Cognitive Systems**.
 
@@ -30,7 +30,7 @@ Each project is designed for fast delivery, modular reuse, and lasting value.
 
 ---
 
-## 🩹 Lines of Development
+## 🧹 Lines of Development
 
 Atheneia projects are grouped into focused, modular Lines. Each tool is solo-feasible, strategically fundable, and directly useful to research, science, or wellbeing contexts.
 
