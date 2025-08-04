@@ -32,7 +32,6 @@ Analytical systems to help scientists and decision-makers understand complex qua
 
 | Project | Family | Category | Status |
 |---------|--------|----------|--------|
-| **Perspective Playground: Diverse Viewpoint Reasoning Enabler** | Complexity Insight Instruments | AI for Sustainability Research | Planned |
 | **Quantum Eco‑Behavioural Analytics Platform** | Complexity Insight Instruments | Environmental Modeling Tool | Planned |
 | **Quantum Explainability Engine** | Complexity Insight Instruments | AI Explainability Tool | Planned |
 | **Quantum Knowledge Navigator** | Complexity Insight Instruments | Academic Research Assistant | Planned |

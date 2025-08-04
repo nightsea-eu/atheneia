@@ -6,6 +6,14 @@ This project delivers an open-source web application that helps researchers, kno
 
 ---
 
+## 🧭 Part of the Atheneia Platform
+
+- **Family:** **Bluentia** – Predictive AI & Cognitive Insight Systems  
+- **Line:** **Complexity Insight Instruments**  
+- **License:** **Apache 2.0 (patching-friendly)**
+
+---
+
 ## 🔍 About the Project
 
 **Perspective Playground** is part of the Atheneia Platform, designed to **make reasoning diversity visible**. It enables:

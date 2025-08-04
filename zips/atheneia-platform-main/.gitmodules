@@ -1,0 +1,3 @@
+[submodule "foundational/q-gsp"]
+    path = foundational/q-gsp
+    url = https://github.com/nightsea-eu/q-gsp.git
