@@ -1,125 +1,128 @@
 # Atheneia Platform
 
-> **Learning by Delivering — Modular Intelligence at the AI, Quantum & Cognition Nexus**
+> **Learning by Delivering — Modular Intelligence for Science, Wellbeing & Sustainability**
 
-**Atheneia** is an open R&D platform created by **Night Sea**, delivering modular, web-based tools at the intersection of **AI**, **Quantum Computing**, and **Cognitive Systems**.
+**Atheneia** is a modular R&D platform created by **Night Sea**, delivering open-source, web-based tools at the intersection of **AI**, **Quantum Computing**, and reflective system design.
 
-Each tool is designed to support learning, clarity, and scientific progress — while empowering researchers, educators, and decision-makers to navigate complex systems with purpose.
-
----
-
-## 🌌 Guiding Vision
-
-We believe intelligence thrives when aligned with **truth, transparency, and resilience**.
-
-Atheneia builds open-source tools that:
-- Accelerate learning in quantum, AI, and cognition  
-- Strengthen scientific and societal decision-making  
-- Support sustainability, mental wellbeing, and ethical intelligence  
+Our tools empower researchers, educators, and decision-makers to explore complex systems, model intelligence with transparency, and act with purpose across scientific, societal, and sustainability domains.
 
 ---
 
-## 🧭 Strategic Pillars
+## 🌌 Vision
 
-- **AI for Insight** – Explainable systems for complex reasoning and decisions  
-- **Quantum for Learning** – Interfaces to explore circuits, gates, and state dynamics  
-- **Cognition for Alignment** – Tools that model thought, story, and agency  
-- **Sustainability & Resilience** – Models and simulations for planetary and human systems
+Atheneia builds intelligence that serves clarity, alignment, and real-world impact.
 
----
+We believe open tools should:
+- Accelerate scientific learning in quantum and AI, while delivering tools that promote wellbeing and insight  
+- Support critical decision-making with transparent reasoning  
+- Strengthen research equity, wellbeing, and sustainability  
 
-## 🧩 Lines of Development
-
-Atheneia develops research tools across focused thematic lines:
+Each project is designed for fast delivery, modular reuse, and lasting value.
 
 ---
 
-### 🎓 Education & Research Tools  
-**Accessible learning systems** that make AI and quantum computing more transparent.
+## 🛍️ Strategic Pillars
 
-Examples:
+- **AI for Insight** – Decision-support tools grounded in explainability  
+- **Quantum for Learning** – Exploratory tools to teach and simulate circuits, gates, and states  
+- **Reflective Systems** – Interfaces that support clarity, self-awareness, and ethical modelling  
+- **Wellbeing & Sustainability** – Tools that strengthen resilience, therapeutic insight, and ecological alignment
+
+---
+
+## 🧹 Lines of Development
+
+Atheneia projects are grouped into focused, modular Lines. Each tool is solo-feasible, strategically fundable, and directly useful to research, science, or wellbeing contexts.
+
+---
+
+### 🎓 Line 1 – Education & Research Tools  
+**Purpose**: Make quantum computing, AI, and complex systems accessible for researchers and learners.
+
+**Examples**:
 - **Q-Kit** – Modular Quantum Teaching SDK  
 - **Quantum Circuit Explorer**  
-- **Quantum Gate Sequence Predictor**  
-- **Interactive Quantum State Visualiser**  
-- **Q-Insight Engine** for sustainability data exploration
+- **Quantum Gate Sequence Predictor (Q-GSP)**  
+- **Interactive Quantum State Visualiser (AI-Aided)**  
+- **Q-Insight Engine** for sustainability datasets
 
 ---
 
-### 🧠 Complexity Insight Instruments  
-**Explainable AI and cognitive tools** that support scientific insight and high-stakes analysis.
+### 🧠 Line 2 – Complexity Insight Instruments  
+**Purpose**: Support researchers and decision-makers in understanding multi-layered, high-stakes systems using explainable AI and reflective modelling.
 
-Examples:
+**Examples**:
 - **Quantum Explainability Engine**  
-- **Quantum Knowledge Navigator**  
-- **Scientific Workflow Orchestrator**  
-- **AI-Powered Climate Decision Support Toolkit**  
+- **Quantum Knowledge Navigator** (academic reasoning)  
+- **Scientific Workflow Orchestrator with Quantum Nodes**  
+- **AI-Powered Climate Decision Toolkit**  
 - **Cognitive Reef Mirror**
 
 ---
 
-### 🌿 Sustainability Simulators  
-**Quantum and AI-powered models** that support climate, ecological, and energy strategies.
+### 🌿 Line 3 – Sustainability Simulators  
+**Purpose**: Quantum- and AI-powered models addressing carbon, ecosystems, energy, and marine risk.
 
-Examples:
+**Examples**:
 - **Quantum-Enhanced Carbon Capture Simulator**  
 - **Smart Grid Optimiser**  
 - **MarineCycle Optimiser**  
+- **BlueRoute Quantum**  
 - **OceanGuard AI**
 
 ---
 
-### 🧬 Translational Research & Therapeutic Design  
-**Research equity tools** that support therapeutic decision-making, strategy, and mentorship — especially in under-resourced or complex biomedical contexts.
+### 🧬 Line 4 – Translational Research & Therapeutic Strategy  
+**Purpose**: Tools supporting therapeutic planning, research equity, and biomedical insight — especially in underserved or complex health contexts.
 
-Examples:
-- Visual forecasters for therapeutic program probability  
-- AI-assisted design for rare disease strategies  
-- Research mentorship companions for early-stage investigators  
-- Translational trackers for open-access science impact
-
----
-
-### 🧘 Cognitive Ethics & Human-Centered AI  
-**Trauma-informed, reflective, and narrative-aligned systems** that support wellbeing, ethical reasoning, and cognitive clarity.
-
-Examples:
-- Scenario-based explainability interfaces  
-- Models for conflict-aware marine and environmental AI  
-- Auditors for scientific reproducibility  
-- Story-driven insight engines for personal and societal reflection
+**Examples**:
+- Visual forecasters for therapeutic program outcomes  
+- AI-assisted rare disease strategy designer  
+- Translational research tracker for open science  
+- Research mentorship companion for early-stage investigators
 
 ---
 
-### 🕸️ Open Research Infrastructure  
-**Data-driven systems** that ensure transparency, reusability, and collaborative science.
+### 🧘 Line 5 – Cognitive Ethics & Reflective Systems  
+**Purpose**: Reflective and wellbeing-aligned tools supporting ethical modelling, psychological insight, and responsible AI development.
 
-Examples:
+**Examples**:
+- Explainability sandbox for sensitive or regulated contexts  
+- Marine/environmental AI conflict explorer  
+- Reproducibility auditor for scientific modelling  
+- Narrative intelligence interface to support reflection and mental resilience
+
+---
+
+### 🔸 Line 6 – Open Research Infrastructure  
+**Purpose**: Foundational systems that support data reuse, synthesis, federation, and scientific transparency.
+
+**Examples**:
 - **Open Quantum Data Hub**  
 - **Quantum-Powered Data Synthesiser**  
-- **Federated Learning Toolkit**  
+- **Quantum Federated Learning Platform**  
 - **Green Quantum Ledger**
 
 ---
 
-### 🔬 Scientific Exploration Interfaces  
-**Tools for deep exploration** of quantum behaviours and cognitive logic.
+### 🔬 Line 7 – Scientific & Reflective System Explorers  
+**Purpose**: Tools that deepen scientific understanding of quantum logic, reflective feedback, and system-level insight.
 
-Examples:
+**Examples**:
 - **Quantum Multispecies Simulator**  
 - **Ocean Quantum Imaging Lab**  
 - **Quantum Biofeedback Engine**
 
 ---
 
-### 💠 Resilience & Cognitive Interfaces  
-**Conceptual tools** that support emotional alignment, behaviour modelling, and systems resilience.
+### 🔠 Line 8 – Resilience & Reflective Interfaces  
+**Purpose**: Conceptual systems that enhance behavioural insight, wellbeing, and human-environmental resilience.
 
-Examples:
+**Examples**:
 - **Quantum Eco-Behavioural Analytics Platform**  
 - **Resilient Habitat Planner**  
-- **Cognitive Reef Mirror** (also listed under Line 2)  
-- **Quantum Storytelling Engine**
+- **Quantum Storytelling Engine**  
+- **Cognitive Reef Mirror** *(also featured in Line 2)*
 
 ---
 
@@ -128,20 +131,32 @@ Examples:
 - **Frontend:** React, TypeScript, Vite, Storybook  
 - **Backend:** Python (FastAPI), Node.js (NestJS), C# (.NET Core)  
 - **Databases:** SQLite, MySQL  
-- **Quantum Tools:** Qiskit, PennyLane, open datasets  
-- **AI/ML:** PyTorch, Scikit-learn, XAI modules  
-- **Design Principles:** Modular, minimal, open-first
+- **Quantum Tools:** Qiskit, PennyLane, Open Datasets  
+- **AI/ML:** PyTorch, Scikit-learn, Explainable AI (XAI) modules  
+- **Design Principles:** Modular • Open-first • Purpose-aligned
+
 
 ---
 
-## 🚀 Getting Started
+## 🤝 Collaboration & Contact
 
-```bash
-# Clone the repository
-git clone https://github.com/nightsea-eu/atheneia.git
+Atheneia is under active development and welcomes aligned contributors from:
 
-# Install dependencies
-npm install
+- Research groups in AI, Quantum Computing, reflective system design, or environmental science  
+- Translational scientists and mental health innovators  
+- Ethical system designers and open-source developers
 
-# Run the dev server (per project)
-npm run dev
+📬 Reach out: **[research@nightsea.eu](mailto:research@nightsea.eu)**
+
+---
+
+## 📜 License
+
+Licensed under the [Apache License 2.0](./LICENSE)  
+© 2025 **Night Sea**  
+Part of the **Atheneia Platform**, delivering modular intelligence systems for science, wellbeing, and sustainability.
+
+---
+
+**Night Sea**  
+Delivering modular, intelligent systems at the frontier of AI, quantum computing, and reflective system design — helping researchers and decision-makers tackle real-world complexity.
