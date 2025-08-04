@@ -36,7 +36,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Education & Research Tools  
+### 1. Education & Research Tools  
 **Purpose**: Make quantum computing, AI, and complex systems accessible for researchers and learners.
 
 **Examples**:
@@ -48,7 +48,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Complexity Insight Instruments  
+### 2. Complexity Insight Instruments  
 **Purpose**: Support researchers and decision-makers in understanding multi-layered, high-stakes systems using explainable AI and cognitive modelling.
 
 **Examples**:
@@ -60,7 +60,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Sustainability Simulators  
+### 3. Sustainability Simulators  
 **Purpose**: Quantum- and AI-powered models addressing carbon, ecosystems, energy, and marine risk.
 
 **Examples**:
@@ -72,7 +72,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Translational Research & Therapeutic Strategy  
+### 4. Translational Research & Therapeutic Strategy  
 **Purpose**: Tools supporting therapeutic planning, research equity, and biomedical insight — especially in underserved or complex health contexts.
 
 **Examples**:
@@ -83,7 +83,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Cognitive Ethics & Reflective Systems  
+### 5. Cognitive Ethics & Reflective Systems  
 **Purpose**: Cognitive-aligned tools supporting ethical modelling, psychological insight, and responsible AI development.
 
 **Examples**:
@@ -94,7 +94,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Open Research Infrastructure  
+### 6. Open Research Infrastructure  
 **Purpose**: Foundational systems that support data reuse, synthesis, federation, and scientific transparency.
 
 **Examples**:
@@ -105,7 +105,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Scientific & Cognitive System Explorers  
+### 7. Scientific & Cognitive System Explorers  
 **Purpose**: Tools that deepen scientific understanding of quantum logic, cognitive feedback, and system-level insight.
 
 **Examples**:
@@ -115,7 +115,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Resilience & Cognitive Interfaces  
+### 8. Resilience & Cognitive Interfaces  
 **Purpose**: Conceptual systems that enhance behavioural insight, cognitive clarity, and environmental-human resilience.
 
 **Examples**:
@@ -126,7 +126,7 @@ Atheneia projects are grouped into focused, modular Lines. Each tool is solo-fea
 
 ---
 
-### Human Connection & Resilience Interfaces
+### 9. Human Connection & Resilience Interfaces
 **Purpose**: Tools that support emotional insight, interpersonal reasoning, and inner navigation — especially for individuals working in isolation, high-pressure contexts, or under cognitive/emotional strain.
 
 **Examples**:
